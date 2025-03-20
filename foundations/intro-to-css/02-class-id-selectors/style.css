@@ -1,0 +1,19 @@
+ p {
+    background-color: rgb(255, 202, 211);
+    font-family:Verdana, sans-serif;   
+ }
+
+ #segunda {
+    color: blue;
+    font-size: 36px;
+ }
+ #cuarta {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+
+ }
+.unico {
+    font-size: 24px;
+
+ }
